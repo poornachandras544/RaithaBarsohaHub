@@ -1,0 +1,27 @@
+{
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "Few clouds",
+      "icon": "02d"
+    }
+  ],
+  "main": {
+    "temp": 28.4,
+    "feels_like": 30.1,
+    "temp_min": 24.0,
+    "temp_max": 32.0,
+    "humidity": 72
+  },
+  "wind": {
+    "speed": 3.2,
+    "deg": 180
+  },
+  "rain": null,
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1719900000,
+  "name": "Bengaluru"
+}

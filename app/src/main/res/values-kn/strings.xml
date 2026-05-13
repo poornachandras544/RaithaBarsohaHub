@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ರೈತ-ಭರೋಸಾ ಹಬ್</string>
+    <string name="app_tagline">ಸ್ಮಾರ್ಟ್ ಬಿತ್ತನೆ ಸಹಾಯಕ</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">ರೈತ-ಭರೋಸಾ ಹಬ್</string>
+    <string name="onboarding_subtitle">ಸ್ಮಾರ್ಟ್ ಬಿತ್ತನೆ ಸಹಾಯಕ</string>
+    <string name="onboarding_name_hint">ನಿಮ್ಮ ಹೆಸರು *</string>
+    <string name="onboarding_village_hint">ಗ್ರಾಮ / ಊರು</string>
+    <string name="onboarding_crop_label">ನಿಮ್ಮ ಬೆಳೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="onboarding_cta">ಮುಂದುವರಿಯಿರಿ →</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">ನಮಸ್ಕಾರ</string>
+    <string name="sowing_index_label">ಬಿತ್ತನೆ ಸೂಚ್ಯಂಕ</string>
+    <string name="crop_health_velocity">ಬೆಳೆ ಆರೋಗ್ಯ ವೇಗ</string>
+    <string name="current_weather">ಪ್ರಸ್ತುತ ಹವಾಮಾನ</string>
+    <string name="parameter_breakdown">ನಿಯತಾಂಕ ವಿವರ</string>
+    <string name="soil_nutrients">ಮಣ್ಣಿನ ಪೋಷಕಾಂಶಗಳು (kg/ha)</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಮಗಳು</string>
+    <string name="btn_log_soil">ಮಣ್ಣಿನ ದತ್ತಾಂಶ ನಮೂದಿಸಿ</string>
+    <string name="btn_krishi_calendar">ಕೃಷಿ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="simulated_data_notice">ಅನುಕರಿಸಿದ ಡೇಟಾ ಬಳಸಲಾಗುತ್ತಿದೆ</string>
+
+    <!-- Input Center -->
+    <string name="input_center_title">ಭೂಮಿ ದತ್ತಾಂಶ ಕೇಂದ್ರ</string>
+    <string name="nitrogen_label">ಸಾರಜನಕ (N)</string>
+    <string name="phosphorus_label">ರಂಜಕ (P)</string>
+    <string name="potassium_label">ಪೊಟ್ಯಾಷ್ (K)</string>
+    <string name="moisture_label">ಮಣ್ಣಿನ ತೇವಾಂಶ</string>
+    <string name="ph_label">ಮಣ್ಣಿನ pH</string>
+    <string name="unit_kg_ha">kg/ha</string>
+    <string name="unit_percent">%</string>
+    <string name="btn_simulate_data">ಡೇಟಾ ಅನುಕರಿಸಿ</string>
+    <string name="btn_save_data">ದತ್ತಾಂಶ ಉಳಿಸಿ</string>
+    <string name="soil_wet_warning">ಮಣ್ಣು ತುಂಬಾ ತೇವ — ಬಿತ್ತನೆ ಮಾಡಬೇಡಿ</string>
+    <string name="soil_dry_warning">ಮಣ್ಣು ತುಂಬಾ ಒಣ — ನೀರಾವರಿ ಮಾಡಿ</string>
+    <string name="soil_optimal">ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ತೇವಾಂಶ</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">ಕೃಷಿ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="calendar_subtitle">7-ದಿನದ ಕ್ರಮ ಯೋಜನೆ</string>
+    <string name="storm_alert_title">ಬಿರುಗಾಳಿ ಎಚ್ಚರಿಕೆ!</string>
+    <string name="storm_alert_body">ರಸಗೊಬ್ಬರ ಮತ್ತು ಬಿತ್ತನೆ ಕಾರ್ಯಗಳನ್ನು 24 ಗಂಟೆ ಮೊದಲೇ ಮುಗಿಸಿ.</string>
+    <string name="forecast_label">7-ದಿನ ಮುನ್ಸೂಚನೆ</string>
+    <string name="action_plan_label">ಕ್ರಮ ಯೋಜನೆ</string>
+
+    <!-- History -->
+    <string name="history_title">ಋತು ಇತಿಹಾಸ</string>
+    <string name="history_subtitle">ಋತುಗಳಲ್ಲಿ ಇಳುವರಿ ಹೋಲಿಸಿ</string>
+    <string name="history_empty_title">ಇನ್ನೂ ದಾಖಲೆ ಇಲ್ಲ</string>
+    <string name="history_empty_body">ನಿಮ್ಮ ಬಿತ್ತನೆ ಋತುಗಳನ್ನು ದಾಖಲಿಸಿ ಮತ್ತು ಇಳುವರಿ ಹೋಲಿಸಿ.</string>
+    <string name="btn_add_season">ಋತು ದಾಖಲೆ ಸೇರಿಸಿ</string>
+
+    <!-- Status labels -->
+    <string name="status_optimal">✅ ಈಗಲೇ ಬಿತ್ತನೆ ಮಾಡಿ!</string>
+    <string name="status_good">👍 ಉತ್ತಮ ಪರಿಸ್ಥಿತಿ</string>
+    <string name="status_fair">⚠️ ನಿರೀಕ್ಷಿಸಿ</string>
+    <string name="status_poor">🛑 ಶಿಫಾರಸು ಮಾಡಲಾಗಿಲ್ಲ</string>
+    <string name="status_critical">🚨 ವಿಳಂಬ ಮಾಡಿ</string>
+
+    <!-- Nav labels -->
+    <string name="nav_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="nav_field_data">ಭೂಮಿ ದತ್ತಾಂಶ</string>
+    <string name="nav_calendar">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="nav_history">ಇತಿಹಾಸ</string>
+</resources>

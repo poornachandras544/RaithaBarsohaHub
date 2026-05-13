@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raitha-Bharosa Hub</string>
+    <string name="app_tagline">Smart Sowing Assistant</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Raitha-Bharosa Hub</string>
+    <string name="onboarding_subtitle">Smart Sowing Assistant</string>
+    <string name="onboarding_name_hint">Your Name *</string>
+    <string name="onboarding_village_hint">Village / Town</string>
+    <string name="onboarding_crop_label">Select Your Crop</string>
+    <string name="onboarding_cta">Get Started →</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">ನಮಸ್ಕಾರ</string>
+    <string name="sowing_index_label">Sowing Index</string>
+    <string name="crop_health_velocity">Crop Health Velocity</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="parameter_breakdown">Parameter Breakdown</string>
+    <string name="soil_nutrients">Soil Nutrients (kg/ha)</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="btn_log_soil">Log Soil Data</string>
+    <string name="btn_krishi_calendar">Krishi Calendar</string>
+    <string name="simulated_data_notice">Using simulated data — Add API key for live weather</string>
+
+    <!-- Input Center -->
+    <string name="input_center_title">Field Data Center</string>
+    <string name="nitrogen_label">Nitrogen (N)</string>
+    <string name="phosphorus_label">Phosphorus (P)</string>
+    <string name="potassium_label">Potassium (K)</string>
+    <string name="moisture_label">Soil Moisture</string>
+    <string name="ph_label">Soil pH</string>
+    <string name="unit_kg_ha">kg/ha</string>
+    <string name="unit_percent">%</string>
+    <string name="btn_simulate_data">Simulate Data</string>
+    <string name="btn_save_data">Save Data</string>
+    <string name="soil_wet_warning">Soil moisture too high — Soil too wet to sow</string>
+    <string name="soil_dry_warning">Soil moisture too low — Irrigate field</string>
+    <string name="soil_optimal">Soil moisture optimal for sowing</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">ಕೃಷಿ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="calendar_subtitle">Krishi Calendar — 7-Day Action Plan</string>
+    <string name="storm_alert_title">Storm Alert!</string>
+    <string name="storm_alert_body">Finish all fertilization and sowing activities at least 24 hours before.</string>
+    <string name="forecast_label">7-Day Forecast</string>
+    <string name="action_plan_label">Action Plan</string>
+
+    <!-- History -->
+    <string name="history_title">Season History</string>
+    <string name="history_subtitle">Compare your yield across seasons</string>
+    <string name="history_empty_title">No Season Records Yet</string>
+    <string name="history_empty_body">Track your sowing seasons and compare yields over time.</string>
+    <string name="btn_add_season">Add Season Record</string>
+
+    <!-- Status labels -->
+    <string name="status_optimal">✅ Go – Sow Now!</string>
+    <string name="status_good">👍 Good Conditions</string>
+    <string name="status_fair">⚠️ Wait – Monitor</string>
+    <string name="status_poor">🛑 Not Advised</string>
+    <string name="status_critical">🚨 Critical – Delay</string>
+
+    <!-- Nav labels -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_field_data">Field Data</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_history">History</string>
+</resources>

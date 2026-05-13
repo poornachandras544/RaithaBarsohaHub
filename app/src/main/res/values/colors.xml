@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_surface">#E8F5E9</color>
+    <color name="green_accent">#81C784</color>
+    <color name="soil_brown">#5D4037</color>
+    <color name="sky_blue">#1565C0</color>
+    <color name="sun_yellow">#F9A825</color>
+    <color name="status_poor">#B71C1C</color>
+    <color name="status_fair">#F57F17</color>
+    <color name="background">#F1F8E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#1B2B1E</color>
+    <color name="text_secondary">#4A6741</color>
+</resources>

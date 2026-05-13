@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.RaithaBharosaHub" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/green_surface</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="android:statusBarColor">@color/green_primary</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+</resources>
